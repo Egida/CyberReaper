@@ -53,7 +53,7 @@ docker run --rm egideon/cyber-reaper
 
 **Виконайте такі команди:**
 ```
-git clone --recurse-submodules https://github.com/E-Gideon/CyberReaper.git
+git clone --recurse-submodules https://github.com/solvek/CyberReaper.git
 cd CyberReaper\src
 py -m pip install -r MHDDoS/requirements.txt
 py main.py
